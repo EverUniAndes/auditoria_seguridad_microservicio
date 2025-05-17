@@ -1257,11 +1257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\ServicioAuditoria\\ServicioAuditoria.csproj",
+      "projectUniqueName": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria\\ServicioAuditoria.csproj",
       "projectName": "ServicioAuditoria",
-      "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\ServicioAuditoria\\ServicioAuditoria.csproj",
+      "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria\\ServicioAuditoria.csproj",
       "packagesPath": "C:\\Users\\edw_5\\.nuget\\packages\\",
-      "outputPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\ServicioAuditoria\\obj\\",
+      "outputPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1283,11 +1283,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj": {
-              "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj"
+            "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj": {
+              "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj"
             },
-            "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj": {
-              "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj"
+            "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj": {
+              "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj"
             }
           }
         }

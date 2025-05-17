@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj",
+      "projectUniqueName": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj",
       "projectName": "Auditorias.Dominio",
-      "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj",
+      "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj",
       "packagesPath": "C:\\Users\\edw_5\\.nuget\\packages\\",
-      "outputPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Dominio\\obj\\",
+      "outputPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

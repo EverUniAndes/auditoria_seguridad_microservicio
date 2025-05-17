@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrwCaV4Cc/c=",
+  "dgSpecHash": "pnVWhGW0C2g=",
   "success": true,
-  "projectFilePath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj",
+  "projectFilePath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edw_5\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\edw_5\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

@@ -752,11 +752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj",
+      "projectUniqueName": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj",
       "projectName": "Auditorias.Infraestructura",
-      "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj",
+      "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj",
       "packagesPath": "C:\\Users\\edw_5\\.nuget\\packages\\",
-      "outputPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Infraestructura\\obj\\",
+      "outputPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -778,8 +778,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj": {
-              "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj"
+            "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj": {
+              "projectPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj"
             }
           }
         }

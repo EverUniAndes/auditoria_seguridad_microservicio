@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOFe2aGN4PA=",
+  "dgSpecHash": "wPYdIgCfzy4=",
   "success": true,
-  "projectFilePath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj",
+  "projectFilePath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura\\Auditorias.Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edw_5\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
     "C:\\Users\\edw_5\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.5\\microsoft.entityframeworkcore.abstractions.9.0.5.nupkg.sha512",

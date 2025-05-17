@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ydCH3dKz/Ek=",
+  "dgSpecHash": "zRPWxEzkhWI=",
   "success": true,
-  "projectFilePath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\movilVisita_ventas_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj",
+  "projectFilePath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Auditorias.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

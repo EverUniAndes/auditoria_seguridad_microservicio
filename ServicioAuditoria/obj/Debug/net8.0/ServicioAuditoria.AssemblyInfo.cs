@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServicioAuditoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c753ea0cffff4a4041daa1d4fd3bae94b0c9ffe0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8920de1b23cf6b6c59f4f3358cf7811adf20f6dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServicioAuditoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicioAuditoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
