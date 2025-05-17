@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rIYnNhtydl2QiFpr7D3qRZs6KDBVWYywX4yKacDQbK0=",
+  "Source": "ServicioAuditoria",
+  "BasePath": "_content/ServicioAuditoria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

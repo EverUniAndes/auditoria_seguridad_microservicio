@@ -1,0 +1,6 @@
+@ServicioAuditoria_HostAddress = http://localhost:5182
+
+GET {{ServicioAuditoria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
