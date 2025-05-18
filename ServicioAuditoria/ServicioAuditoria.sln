@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioAuditoria", "ServicioAuditoria.csproj", "{379A732D-FC07-4C82-BEE7-82AD18135948}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorias.Dominio", "..\Auditorias.Dominio\Auditorias.Dominio.csproj", "{F4198E4D-AD61-4129-89C1-F9E9AE048977}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorias.Infraestructura", "..\Auditorias.Infraestructura\Auditorias.Infraestructura.csproj", "{F5F8B36F-085D-4AA3-8DF2-E01A67FA0380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorias.Test", "..\Auditorias.Test\Auditorias.Test.csproj", "{EF7D902D-E466-4F0C-844E-EB4D8F60F426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F5F8B36F-085D-4AA3-8DF2-E01A67FA0380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5F8B36F-085D-4AA3-8DF2-E01A67FA0380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5F8B36F-085D-4AA3-8DF2-E01A67FA0380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7D902D-E466-4F0C-844E-EB4D8F60F426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7D902D-E466-4F0C-844E-EB4D8F60F426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7D902D-E466-4F0C-844E-EB4D8F60F426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7D902D-E466-4F0C-844E-EB4D8F60F426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

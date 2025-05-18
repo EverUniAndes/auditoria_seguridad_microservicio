@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auditorias.Infraestructura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5d37bec23cdc9b90a616779890ed4b48b9cb7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd5148ae920b80a40d73ac13d54686822f8f41f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auditorias.Infraestructura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auditorias.Infraestructura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

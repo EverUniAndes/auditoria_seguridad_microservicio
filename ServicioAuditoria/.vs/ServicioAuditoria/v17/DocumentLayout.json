@@ -3,23 +3,10 @@
   "WorkspaceRootPath": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBB4B46A-CCEB-4788-B610-F7F38C525B50}|..\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.aplicacion\\clientesapi\\usuariosapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF7D902D-E466-4F0C-844E-EB4D8F60F426}|..\\Auditorias.Test\\Auditorias.Test.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.test\\auditoriacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBB4B46A-CCEB-4788-B610-F7F38C525B50}|..\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.aplicacion\\consultas\\consultasauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB4B46A-CCEB-4788-B610-F7F38C525B50}|..\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.aplicacion\\mapeadores\\auditoriamapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4198E4D-AD61-4129-89C1-F9E9AE048977}|..\\Auditorias.Dominio\\Auditorias.Dominio.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{379A732D-FC07-4C82-BEE7-82AD18135948}|ServicioAuditoria.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\servicioauditoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{379A732D-FC07-4C82-BEE7-82AD18135948}|ServicioAuditoria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBB4B46A-CCEB-4788-B610-F7F38C525B50}|..\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.aplicacion\\dto\\auditoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBB4B46A-CCEB-4788-B610-F7F38C525B50}|..\\Auditorias.Aplicacion\\Auditorias.Aplicacion.csproj|d:\\edward romero\\documents\\miso\\proyecto final ii\\auditoria_seguridad_microservicio\\auditorias.aplicacion\\dto\\auditoriain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,80 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuditoriaMapeador.cs",
-              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Mapeadores\\AuditoriaMapeador.cs",
-              "RelativeDocumentMoniker": "..\\Auditorias.Aplicacion\\Mapeadores\\AuditoriaMapeador.cs",
-              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Mapeadores\\AuditoriaMapeador.cs",
-              "RelativeToolTip": "..\\Auditorias.Aplicacion\\Mapeadores\\AuditoriaMapeador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:57:38.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Auditoria.cs",
-              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Entidades\\Auditoria.cs",
-              "RelativeDocumentMoniker": "..\\Auditorias.Dominio\\Entidades\\Auditoria.cs",
-              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio\\Entidades\\Auditoria.cs",
-              "RelativeToolTip": "..\\Auditorias.Dominio\\Entidades\\Auditoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:56:20.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuditoriaDto.cs",
-              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Dto\\AuditoriaDto.cs",
-              "RelativeDocumentMoniker": "..\\Auditorias.Aplicacion\\Dto\\AuditoriaDto.cs",
-              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Dto\\AuditoriaDto.cs",
-              "RelativeToolTip": "..\\Auditorias.Aplicacion\\Dto\\AuditoriaDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAywBQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:46:55.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConsultasAuditoria.cs",
-              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Consultas\\ConsultasAuditoria.cs",
-              "RelativeDocumentMoniker": "..\\Auditorias.Aplicacion\\Consultas\\ConsultasAuditoria.cs",
-              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Consultas\\ConsultasAuditoria.cs",
-              "RelativeToolTip": "..\\Auditorias.Aplicacion\\Consultas\\ConsultasAuditoria.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBsAAAAMAAAAAAAAAA==",
+              "Title": "AuditoriaIn.cs",
+              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Dto\\AuditoriaIn.cs",
+              "RelativeDocumentMoniker": "..\\Auditorias.Aplicacion\\Dto\\AuditoriaIn.cs",
+              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\Dto\\AuditoriaIn.cs",
+              "RelativeToolTip": "..\\Auditorias.Aplicacion\\Dto\\AuditoriaIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:45:04.787Z",
+              "WhenOpened": "2025-05-18T15:46:56.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuariosApiClient.cs",
-              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\ClientesApi\\UsuariosApiClient.cs",
-              "RelativeDocumentMoniker": "..\\Auditorias.Aplicacion\\ClientesApi\\UsuariosApiClient.cs",
-              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion\\ClientesApi\\UsuariosApiClient.cs",
-              "RelativeToolTip": "..\\Auditorias.Aplicacion\\ClientesApi\\UsuariosApiClient.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAMAAAAAAAAAA==",
+              "Title": "AuditoriaControllerTest.cs",
+              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Test\\AuditoriaControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\Auditorias.Test\\AuditoriaControllerTest.cs",
+              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Test\\AuditoriaControllerTest.cs",
+              "RelativeToolTip": "..\\Auditorias.Test\\AuditoriaControllerTest.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwD8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:38:30.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAnwCcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:39:58.103Z",
+              "WhenOpened": "2025-05-18T14:35:57.662Z",
               "EditorCaption": ""
             }
           ]

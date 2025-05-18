@@ -108,10 +108,10 @@ D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservi
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServicioAuditoria.props
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServicioAuditoria.props
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\Servicio.1CE25F37.Up2Date
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\ServicioAuditoria.dll
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\refint\ServicioAuditoria.dll
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\ServicioAuditoria.pdb
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\ServicioAuditoria.genruntimeconfig.cache
 D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\ref\ServicioAuditoria.dll
+D:\Edward Romero\Documents\MISO\Proyecto Final II\auditoria_seguridad_microservicio\ServicioAuditoria\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,0 +1,6 @@
+{
+  "Auditorias.Aplicacion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Aplicacion",
+  "Auditorias.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Dominio",
+  "Auditorias.Infraestructura, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\Auditorias.Infraestructura",
+  "ServicioAuditoria, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Edward Romero\\Documents\\MISO\\Proyecto Final II\\auditoria_seguridad_microservicio\\ServicioAuditoria"
+}
