@@ -15,6 +15,7 @@ namespace Auditorias.Aplicacion.Mapeadores
                 .ForMember(dest => dest.Idregistro, opt => opt.MapFrom(src => src.Idregistro))
                 .ForMember(dest => dest.Registro, opt => opt.MapFrom(src => src.Registro))
                 .ForMember(dest => dest.FechaCreacion, opt => opt.MapFrom(src => src.FechaCreacion))
+                .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.UserName))
                 .ReverseMap();
 
             CreateMap<Auditoria, AuditoriaIn>()

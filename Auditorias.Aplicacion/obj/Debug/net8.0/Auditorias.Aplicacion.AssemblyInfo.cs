@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auditorias.Aplicacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8920de1b23cf6b6c59f4f3358cf7811adf20f6dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5d37bec23cdc9b90a616779890ed4b48b9cb7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auditorias.Aplicacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auditorias.Aplicacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

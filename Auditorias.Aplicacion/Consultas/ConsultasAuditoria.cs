@@ -1,5 +1,7 @@
-﻿using Auditorias.Aplicacion.Dto;
+﻿using Auditorias.Aplicacion.ClientesApi;
+using Auditorias.Aplicacion.Dto;
 using Auditorias.Aplicacion.Enum;
+using Auditorias.Dominio.Entidades;
 using Auditorias.Dominio.Servicios;
 using AutoMapper;
 using System.Net;
@@ -11,12 +13,23 @@ namespace Auditorias.Aplicacion.Consultas
         private readonly AuditoriasPorFecha _auditoriasPorFecha;
         private readonly AuditoriasPorUsuario _auditoriasPorUsuario;
         private readonly IMapper _mapper;
+        private readonly IUsuariosApiClient _usuariosApiClient;
 
-        public ConsultasAuditoria(AuditoriasPorFecha auditoriasPorFecha, AuditoriasPorUsuario auditoriasPorUsuario, IMapper mapper)
+        public ConsultasAuditoria(AuditoriasPorFecha auditoriasPorFecha, AuditoriasPorUsuario auditoriasPorUsuario, IMapper mapper, IUsuariosApiClient usuariosApiClient)
         {
             _auditoriasPorFecha = auditoriasPorFecha;
             _auditoriasPorUsuario = auditoriasPorUsuario;
             _mapper = mapper;
+            _usuariosApiClient = usuariosApiClient;
+        }
+
+        public void ConsultarUsuario(Auditoria auditoriaDto)
+        {
+            var usuario = _usuariosApiClient.consultarUsuario(auditoriaDto.IdUsuario);
+            if (usuario != null)
+            {
+                auditoriaDto.UserName = usuario.Result;
+            }
         }
 
         public async Task<AuditoriaOutList> ObtenerAuditoriasPorFecha(DateTime fechaInicio, DateTime fechaFin)
@@ -39,6 +52,11 @@ namespace Auditorias.Aplicacion.Consultas
                 }
                 else
                 {
+                    foreach (var auditoria in Auditorias)
+                    { 
+                        ConsultarUsuario(auditoria);
+                    }
+
                     output.Auditorias = _mapper.Map<List<AuditoriaDto>>(Auditorias);
                     output.Resultado = Resultado.Exitoso;
                     output.Mensaje = "Auditorías obtenidas correctamente.";
@@ -75,6 +93,11 @@ namespace Auditorias.Aplicacion.Consultas
                 }
                 else
                 {
+                    foreach (var auditoria in Auditorias)
+                    {
+                        ConsultarUsuario(auditoria);
+                    }
+
                     output.Auditorias = _mapper.Map<List<AuditoriaDto>>(Auditorias);
                     output.Resultado = Resultado.Exitoso;
                     output.Mensaje = "Auditorías obtenidas correctamente.";

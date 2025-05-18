@@ -9,7 +9,10 @@ namespace Auditorias.Dominio.Entidades
     {
         [Column("idusuario")]
         public Guid IdUsuario { get; set; }
-        
+
+        [NotMapped]
+        public string? UserName { get; set; } = null;
+
         [Column("accion")]
         public string Accion { get; set; }
 
